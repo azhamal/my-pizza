@@ -1,0 +1,25 @@
+.mainContainer{
+  margin: 0 auto;
+  width: 80%;
+  padding-top: 1rem;
+  background-color: red;
+ 
+ 
+  
+}
+.ant-anchor-link-title-active{
+  color: gold!important;
+}
+.ant-anchor-ink{
+  display: none !important;
+}
+.ant-anchor-link-wrapper{
+  border-bottom: none!important;
+}
+.linkNavigation::before{
+  border-bottom: none!important;
+}
+.slick-slide > div{
+  display: flex;
+ 
+}
